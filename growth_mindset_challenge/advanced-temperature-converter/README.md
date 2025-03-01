@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ **Run the Streamlit App**
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## 📊 Screenshots
@@ -76,6 +76,6 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 This project is licensed under the **MIT License**.
 
 ## ❤️ Acknowledgements
-Built with love by **Hafiz Muhammad Umar Farooq** using **Streamlit**. 
+Built with love by **Afia Bakr** using **Streamlit**. 
 
 ✉️ **For any queries, reach out to me!**
