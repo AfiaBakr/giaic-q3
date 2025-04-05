@@ -149,7 +149,7 @@ def temprature_convertor(value, from_unit, to_unit):
     elif from_unit == 'Fahrenheit':
         return (value - 32 ) *5/9 if to_unit == "Celsius" else (value - 32) * 5/9 + 273.15 if to_unit == "Kalvin" else value
     elif from_unit == 'Kalvin':
-        return value -273.15 if  to_unit == "Celsius" else (value -273.15) * 9/5 + 32 if to_unit == "Fahrentheit" else value 
+        return value -273.15 if  to_unit == "Celsius" else (value -273.15) * 9/5 + 32 if to_unit == "Fahrenheit" else value 
     return value
 
 #Button for Conversion
