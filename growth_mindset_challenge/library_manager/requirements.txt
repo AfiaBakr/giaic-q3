@@ -1,0 +1,6 @@
+
+streamlit
+panda
+plotly
+streamlit-lottie
+requests
